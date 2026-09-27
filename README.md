@@ -11,8 +11,6 @@ The system has four pages:
 - **Profile** (`/profile`) — shows the single demo user record
 - **About** (`/about`) — static page identifying the developer
 
-Developed by **Andrea Magnaye**.
-
 ## Installation
 
 This copy of the project already includes the CodeIgniter 4 framework itself under `system/`, so **no Composer install is required** — just clone or unzip it and it runs. (If you'd rather manage the framework via Composer instead, `composer create-project codeigniter4/appstarter` gives you the same starting point, and you'd copy the `app/`, `database/`, and `public/assets/` folders from this project into it.)
